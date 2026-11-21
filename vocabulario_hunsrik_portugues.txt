@@ -1,0 +1,224 @@
+VOCABULARIO INICIAL — PORTUGUES / HUNSRUCKISCH
+Projeto Hunsrik
+Formato: Português<TAB>Hunsrückisch<TAB>Categoria<TAB>Observação
+UTF-8
+
+IMPORTANTE:
+- Esta lista é uma base de pesquisa, não um dicionário normativo.
+- As formas foram transcritas de fontes acadêmicas publicadas.
+- O Hunsrückisch apresenta variação regional e de grafia.
+- "Validar com falante" significa confirmar uso, significado e grafia na comunidade-alvo antes de publicar no aplicativo.
+- Empréstimos do português incorporados ao Hunsrückisch são identificados como empréstimos/adaptações; não são traduções de uma palavra alemã padrão.
+- Não gerar pronúncias automaticamente a partir da escrita.
+
+PORTUGUES	HUNSRUCKISCH	CATEGORIA	OBSERVACAO
+fotografar	abnemme	verbos	Inventário IHLBrI; validar com falante
+araçá	Affebeere	natureza	Inventário IHLBrI; grafia extraída do PDF; confirmar forma
+constantemente	allegebott	advérbios	Inventário IHLBrI
+todos	allegoore	pronomes/quantificadores	Inventário IHLBrI
+talvez	amen	advérbios	Inventário IHLBrI
+ramela	Auerotz	corpo/saúde	Inventário IHLBrI
+tagarelar	Babble	verbos	Inventário IHLBrI
+barulho	Barulhe	vida cotidiana	Inventário IHLBrI
+barbear-se	balweere	verbos	Inventário IHLBrI
+barranco	Barrancke	natureza	Inventário IHLBrI
+batata-doce	Batat	alimentação	Inventário IHLBrI
+colonos	Bauersleit	pessoas/comunidade	Inventário IHLBrI
+lanterna	Blitzlamp	objetos	Inventário IHLBrI
+floreado	Blumich	descrições	Inventário IHLBrI
+tímido	bleed	descrições	Inventário IHLBrI; relacionado a schüchtern
+mexer-se	bocke	verbos	Inventário IHLBrI
+chão	Bodem / Borrem	casa/ambiente	Variantes registradas no Inventário IHLBrI
+brigar	brige	verbos	Inventário IHLBrI
+chorar	brille	verbos	Inventário IHLBrI; relacionado a weinen
+costas / ombros	Buckel	corpo	Inventário IHLBrI
+menino / guri	Bub	pessoas/família	Inventário IHLBrI
+charmoso	chamant	descrições	Inventário IHLBrI
+magro	derr	descrições	Inventário IHLBrI
+perto	dicht	advérbios	Inventário IHLBrI
+panela	Dippe	cozinha	Inventário IHLBrI
+médico	Dokter	profissões	Inventário IHLBrI
+bolacha de Natal	Doss	alimentação/cultura	Inventário IHLBrI
+farinha	Farin	alimentação	Inventário IHLBrI
+bobagem	Fisematente	expressões	Inventário IHLBrI
+fósforo	Fixfeier	objetos	Inventário IHLBrI
+paz	Friede	abstrações	Inventário IHLBrI
+café da manhã	Fri(h)stick	alimentação	Forma impressa no Inventário; confirmar grafia exata
+mulher	Froomensch	pessoas/família	Inventário IHLBrI
+funda	Funde	objetos	Inventário IHLBrI; sentido regional
+chuviscar	fussle	natureza/clima	Inventário IHLBrI
+refrigerante	Gasose	alimentação	Empréstimo/adaptação do português "gasosa"; Inventário IHLBrI
+cavalo	Gaul	animais	Inventário IHLBrI
+trazido	gebrung	verbos	Inventário IHLBrI
+madrinha	Goht	família	Inventário IHLBrI
+horta	Goote / Gaate	casa/agricultura	Variantes registradas no Inventário IHLBrI
+torresmo	Griewekuche	alimentação	Inventário IHLBrI
+ranzinza	grinsich	descrições	Inventário IHLBrI
+batata	Grummbeere	alimentação	Inventário IHLBrI
+hábil	guap	descrições	Inventário IHLBrI; associado a "guapo"
+pepino	Gummer	alimentação	Inventário IHLBrI
+guri	Guri	pessoas/família	Empréstimo/adaptação regional; Inventário IHLBrI
+alto (som)	hadd	descrições	Inventário IHLBrI
+terneiro	Hemmes	animais/agricultura	Inventário IHLBrI
+camisa	Himd	vestuário	Inventário IHLBrI
+galinha	Hinkel	animais/alimentação	Inventário IHLBrI
+em breve	hottich	advérbios	Inventário IHLBrI; confirmar grafia
+estar sentado	hucke / hocke	verbos	Variantes registradas no Inventário IHLBrI
+pular	hupse	verbos	Inventário IHLBrI
+cueca virada	Huwwelspeen	alimentação	Inventário IHLBrI
+almanaque	Kalenner	objetos	Inventário IHLBrI
+caneco	Kanecker	cozinha	Inventário IHLBrI
+jaracatiá	Keesboom	natureza	Inventário IHLBrI
+queijo Quark	Keesschmeer / Keesschmier	alimentação	Variantes registradas no Inventário IHLBrI
+festa típica da colônia / festa da igreja	Kerb	cultura	Inventário IHLBrI
+primeira fatia do pão	Keschtche	alimentação	Inventário IHLBrI
+cozinha	Kich	casa	Inventário IHLBrI
+esperto	kluuch	descrições	Inventário IHLBrI
+avarento	knicksich	descrições	Inventário IHLBrI
+colônia	Kolonie	comunidade	Inventário IHLBrI
+compadre	Kompooder	família	Inventário IHLBrI
+jogar cartas	koote / kaate	verbos/lazer	Variantes registradas no Inventário IHLBrI
+casca (do pão)	Koscht	alimentação	Inventário IHLBrI
+torneira	Kroone	casa	Inventário IHLBrI
+cuca	Kuche	alimentação	Inventário IHLBrI
+cliente / o cara	Kunne	pessoas	Inventário IHLBrI; uso coloquial
+beijar	kusse	verbos	Inventário IHLBrI
+aprender / ensinar	lenne	verbos	Inventário IHLBrI; formas associadas a lernen/lehren
+querido(a)	liebche	descrições/afeto	Inventário IHLBrI
+janela	Loode	casa	Inventário IHLBrI
+avião	Luftschiff	transporte	Inventário IHLBrI; confirmar uso local
+alegre / engraçado	lustich	descrições	Inventário IHLBrI
+homem	Mannskell	pessoas/família	Inventário IHLBrI
+boca	Maul	corpo	Inventário IHLBrI
+moças / gurias	Meede	pessoas/família	Inventário IHLBrI
+visitar	meue	verbos	Inventário IHLBrI
+paiol	Miljehitt	agricultura	Inventário IHLBrI
+gatinho	Minzche	animais	Inventário IHLBrI
+girino	Mollekopp	animais/natureza	Inventário IHLBrI
+mula	Mule	animais	Inventário IHLBrI
+namorar	namoreere	verbos/relacionamentos	Inventário IHLBrI
+galho	Nast	natureza	Inventário IHLBrI
+quase	neext	advérbios	Inventário IHLBrI
+bebê / nenê	Nenneche	família	Inventário IHLBrI
+notícia	Odder	comunicação	Inventário IHLBrI; relacionado a "ordre"
+muito	oorich / aarich	advérbios	Variantes registradas no Inventário IHLBrI
+barriga	Panz	corpo	Inventário IHLBrI
+parente	Parent	família	Inventário IHLBrI
+padrinho	Patt	família	Inventário IHLBrI
+Papai Noel	Pelznickel	cultura	Natal; Inventário IHLBrI
+picada	Pikood	natureza/comunidade	Inventário IHLBrI
+roça / plantação	Plantoosch	agricultura	Inventário IHLBrI
+lugar	Platz	lugares	Inventário IHLBrI
+pensar / refletir	pleene	verbos	Inventário IHLBrI
+potreiro	Potreer	agricultura	Inventário IHLBrI
+gabar-se	prose	verbos	Inventário IHLBrI
+pipoca	Puffmilje	alimentação	Inventário IHLBrI
+preguiça	Quatti	descrições	Inventário IHLBrI
+preguiçoso	quattrich	descrições	Inventário IHLBrI
+juntar / escolher (feijão)	raffe	verbos/agricultura	Inventário IHLBrI
+de volta	retur	advérbios	Inventário IHLBrI; origem francesa retour
+direto	richtwech	advérbios	Inventário IHLBrI
+sabonete	Riechseef / Riechseif	higiene	Variantes registradas no Inventário IHLBrI
+nata	Roohm	alimentação	Inventário IHLBrI
+invertido / do avesso	rommgedreht	descrições	Inventário IHLBrI
+suco	Sangari	alimentação	Empréstimo/adaptação de "sangria"; Inventário IHLBrI
+forte / com força	schalkich	descrições	Inventário IHLBrI
+chato	schappich	descrições	Inventário IHLBrI
+jararaca	Scharack	animais	Inventário IHLBrI
+xingar	schenne	verbos	Inventário IHLBrI
+namorado(a)	Schetzche	pessoas/relacionamentos	Inventário IHLBrI
+chinelo	Schlapp	vestuário	Inventário IHLBrI
+surra	Schleh	vida cotidiana	Inventário IHLBrI
+dorme bem	schlof gut	expressões	Inventário IHLBrI
+chimia / geleia	Schmeer / Schmier	alimentação	Variantes registradas no Inventário IHLBrI
+bigode	Schnorres	corpo	Inventário IHLBrI
+motorista	Schofeer	profissões	Inventário IHLBrI; origem francesa chauffeur
+jogo de cartas típico	Schoftopp	lazer	Inventário IHLBrI; confirmar grafia no original
+grave	schroh	descrições	Inventário IHLBrI
+bolso	Seckel	vestuário	Inventário IHLBrI
+sobremesa	Siess	alimentação	Inventário IHLBrI
+estranho	spassich	descrições	Inventário IHLBrI
+piada	Spessche	expressões	Inventário IHLBrI
+correr	springe	verbos	Inventário IHLBrI
+com cabelo bagunçado	struppich	descrições	Inventário IHLBrI
+benzedeiro	Teedokter	cultura/profissões	Inventário IHLBrI
+tonto	toll	descrições	Inventário IHLBrI
+sonhar	treeme	verbos	Inventário IHLBrI
+secar	truckle	verbos	Inventário IHLBrI
+apressar-se	tummle	verbos	Inventário IHLBrI
+sentir saudades	Velangrung / velangre	verbos/sentimentos	Variantes registradas no Inventário IHLBrI
+esconder	vesteckle	verbos	Inventário IHLBrI
+respeitoso / educado	vestennich	descrições	Inventário IHLBrI
+falar / contar / conversar	vezehle	verbos	Inventário IHLBrI
+vila / centro da colônia	Ville	lugares	Inventário IHLBrI
+quando	Wanneh	advérbios	Inventário IHLBrI
+caminhozinho / trilha	Wechelche	natureza/lugares	Inventário IHLBrI
+carro de boi	Woohn / Waahn	transporte	Variantes registradas no Inventário IHLBrI
+linguiça	Worscht	alimentação	Inventário IHLBrI
+vovô / vovó	Wowwo / Wowwe	família	Variantes registradas no Inventário IHLBrI
+leitão	Wutz	animais/alimentação	Inventário IHLBrI
+roupa	Zeich	vestuário	Inventário IHLBrI
+brigar (crianças)	Zenke	verbos	Inventário IHLBrI
+cadelinha	Zippche	animais	Inventário IHLBrI
+arteiro	zwerrich	descrições	Inventário IHLBrI
+
+EMPRESTIMOS E ADAPTACOES DO PORTUGUES DOCUMENTADOS EM ARTIGO ACADEMICO (2026)
+PORTUGUES	HUNSRUCKISCH	CATEGORIA	OBSERVACAO
+ameixa	Amesch	alimentação	Artigo da Revista de Estudos da Linguagem/UFMG (2026)
+amiga(o)	Amiga(o)	pessoas	Empréstimo lexical integrado; artigo UFMG (2026)
+anúncio	Anunsio	comunicação	Artigo UFMG (2026)
+aposentadoria	Aposentatorie	vida cotidiana	Artigo UFMG (2026)
+autoridade	Autoriteet	sociedade	Artigo UFMG (2026)
+avião	Aviong	transporte	Artigo UFMG (2026)
+avisar	Aviseere	verbos	Artigo UFMG (2026)
+balcão	Barkong	casa/comércio	Artigo UFMG (2026)
+bandeja	Bandeesch	cozinha	Artigo UFMG (2026)
+banhado	Banhado	natureza	Empréstimo integrado; artigo UFMG (2026)
+barraca	Barack	objetos	Artigo UFMG (2026)
+barulho	Barulje	vida cotidiana	Artigo UFMG (2026)
+bicicleta	Bisiklett	transporte	Artigo UFMG (2026)
+bilhete	Biljett	objetos/comunicação	Artigo UFMG (2026)
+cachimbo	Kaschimb	objetos	Artigo UFMG (2026)
+caminhão	Kamiong	transporte	Artigo UFMG (2026)
+caneta	Kanett	escola/objetos	Artigo UFMG (2026)
+carreta	Karett	transporte	Artigo UFMG (2026)
+carroça	Kaross	transporte	Artigo UFMG (2026)
+caxumba	Kaschumbe	saúde	Artigo UFMG (2026)
+churrasco	Schuraske	alimentação	Artigo UFMG (2026); termo mais recente em relação a Spissfleisch
+facão	Fakong	objetos/agricultura	Artigo UFMG (2026)
+guri(s)	Guri(e)	pessoas	Artigo UFMG (2026); plural com sufixo -e
+loja	Loja	comércio	Empréstimo lexical integrado; artigo UFMG (2026)
+macaco (ferramenta)	Makack	ferramentas	Artigo UFMG (2026)
+marreco(a)	Marreck	animais	Artigo UFMG (2026)
+mula	Mule	animais	Artigo UFMG (2026)
+município	Munizipp	lugares/sociedade	Artigo UFMG (2026)
+neném	Neneche	família	Artigo UFMG (2026)
+picolé	Pikolee	alimentação	Artigo UFMG (2026)
+pilha	Bilja	objetos	Artigo UFMG (2026)
+potreiro	Potrea	agricultura	Artigo UFMG (2026)
+puxar	Pusche	verbos	Artigo UFMG (2026)
+quantia	Quantie	quantidades	Artigo UFMG (2026)
+relho	Relhe	agricultura/objetos	Artigo UFMG (2026)
+roubo	Raab	sociedade	Artigo UFMG (2026)
+televisão	Tëlevisong	tecnologia	Artigo UFMG (2026)
+venda (pequeno mercado)	Vend	comércio	Artigo UFMG (2026)
+farinha de milho	Miljemehl	alimentação	Forma híbrida discutida no artigo UFMG (2026)
+menino que trabalha no balcão	Balkonjunge	pessoas/profissões	Composto híbrido discutido no artigo UFMG (2026)
+
+FONTES PRINCIPAIS
+1. ALTENHOFEN, Cléo Vilson; MORELLO, Rosângela (org.). Hunsrückisch: Inventário de uma Língua do Brasil. Florianópolis: Editora Garapuvu, 2018. Inventário do Hunsrückisch como Língua Brasileira de Imigração (IHLBrI), especialmente p. 64–67 (lista de palavras e expressões). PDF:
+https://www.lume.ufrgs.br/bitstream/handle/10183/194384/001093148.pdf
+
+2. ALVES, Leonardo. Code-mixing, code-switching e empréstimos no Hunsrückisch: uma análise de contato linguístico. Revista de Estudos da Linguagem, v. 34, n. 1, p. 51–80, 2026. Tabela de empréstimos lexicais, p. 68–69. PDF:
+https://periodicos.ufmg.br/index.php/relin/article/download/57815/51723
+
+3. IPHAN. Hunsrückisch — Inventário Nacional da Diversidade Linguística. Informações sobre variedades rio-grandense, leste-catarinense e do Espírito Santo:
+https://indl.iphan.gov.br/identificacao-e-caracterizacao-da-lingua-referencia/identificacao-e-caracterizacao-da-lingua-referencia-hunsruckisch/
+
+ORIENTACAO PARA IMPORTACAO NO APLICATIVO
+1. Não importar automaticamente tudo como "validado".
+2. Manter source com a referência bibliográfica correspondente.
+3. Marcar os registros como "pending" até revisão por falantes da região atendida pelo projeto.
+4. Preservar variantes como entradas alternativas ou variantes, sem apagar diferenças.
+5. Não normalizar grafia automaticamente.
+6. Não criar áudio ou pronúncia por TTS a partir desta lista.

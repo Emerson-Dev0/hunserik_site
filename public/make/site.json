@@ -1,0 +1,10 @@
+{
+  "description": "Plataforma divertida para crianças de Itapiranga e São João do Oeste aprenderem e preservarem o Hunsrik com palavras, áudios, jogos e atividades culturais.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
