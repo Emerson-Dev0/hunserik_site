@@ -18,6 +18,12 @@ npm run build
 npm run preview
 ```
 
+## Publicação no GitHub Pages
+
+O workflow em `.github/workflows/deploy-pages.yml` publica automaticamente a branch `main` após cada push e também pode ser iniciado manualmente em **Actions**. No GitHub, configure **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+
+O Vite detecta o nome do repositório no GitHub Actions e gera os caminhos corretos para um site de projeto, como `/hunserik_site/`. No desenvolvimento local, continua usando `/`. O workflow também publica `404.html` para manter as rotas do React Router ao recarregar páginas internas.
+
 O diagnóstico, o plano progressivo e as limitações atuais estão em [DIAGNOSTICO-MVP.md](DIAGNOSTICO-MVP.md).
 
 ---
