@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState, type ReactNode } from 'react'
 import { Link, NavLink, Outlet, useLocation } from 'react-router'
 import { vocabulary, vocabularyImportCounts, type PictureType, type ValidationState, type VocabularyEntry } from './data/vocabulary'
+import logo from '../Logo_teste.jpeg'
 
 type IconName = 'home' | 'cards' | 'sound' | 'game' | 'arrow' | 'play' | 'pause' | 'check' | 'info' | 'search' | 'close'
 
@@ -36,10 +37,9 @@ export function AppLayout() {
       <div className="mobile-app">
         <header className="mobile-header">
           <Link to="/" className="mobile-brand" aria-label="Hunsrik na Prática — início">
-            <span className="logo-mark">H</span>
+            <img className="logo-mark" src={logo} alt="" />
             <span><strong>Hunsrik</strong><small>na Prática</small></span>
           </Link>
-          <div className="region-chip">SC</div>
         </header>
         <main key={location.pathname} className="screen-content"><Outlet /></main>
         <nav className="app-tabs" aria-label="Navegação principal">

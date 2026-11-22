@@ -33,7 +33,7 @@
 .mobile-app { width: 100%; min-height: 100vh; background: var(--paper); position: relative; padding-bottom: calc(72px + env(safe-area-inset-bottom)); }
 .mobile-header { height: 64px; padding: 0 18px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid var(--line); background: rgba(255,253,248,.96); position: sticky; top: 0; z-index: 20; backdrop-filter: blur(10px); }
 .mobile-brand { display: flex; align-items: center; gap: 9px; }
-.logo-mark { width: 37px; height: 37px; border-radius: 50% 45% 52% 48%; display: grid; place-items: center; background: var(--green); color: white; font: 900 20px Nunito; box-shadow: inset -4px -3px rgba(0,0,0,.1); transform: rotate(-4deg); }
+.logo-mark { width: 37px; height: 37px; border-radius: 50% 45% 52% 48%; display: grid; place-items: center; object-fit: cover; background: var(--green); color: white; font: 900 20px Nunito; box-shadow: inset -4px -3px rgba(0,0,0,.1); transform: rotate(-4deg); }
 .mobile-brand > span:last-child { display: flex; flex-direction: column; line-height: .9; }
 .mobile-brand strong { font-size: 17px; }.mobile-brand small { font: 800 8px Nunito; text-transform: uppercase; letter-spacing: .13em; margin-top: 5px; }
 .region-chip { border: 1px solid #b9c9c0; color: var(--green); border-radius: 16px; padding: 5px 9px; font: 900 10px Nunito; letter-spacing: .08em; }
